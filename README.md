@@ -1,7 +1,7 @@
 # To Do List
 -Home page
 +   -navigation bar
-+   -About, Services, Contact Us
++     -About, Services, Contact Us
 +   -header
 +   -footer
 +   -contact info(email)
