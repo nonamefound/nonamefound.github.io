@@ -12,6 +12,8 @@ http://www.w3schools.com/bootstrap/bootstrap_ref_comp_dropdowns.asp
 idk if this would be needed:
 http://www.w3schools.com/html/html_responsive.asp
 
+teaches div w. food:
+http://flukeout.github.io/
 
 
 #Example Code:
