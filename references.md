@@ -2,7 +2,7 @@
 ###sticky navigation bar
 * http://demos.jquerymobile.com/1.2.1/docs/toolbars/bars-fixed.html
 * http://www.w3schools.com/jquerymobile/tryit.asp?filename=tryjqmob_toolbars_fixed
-
+<br> <br>
 * new HTML5 tags can replace div tags
 (i'm not sure how CSS might work):
 http://www.w3schools.com/html/html5_semantic_elements.asp
