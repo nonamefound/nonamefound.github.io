@@ -1,6 +1,7 @@
 # References
-* sticky navigation bar:
-http://stackoverflow.com/questions/14667829/how-to-create-a-sticky-navigation-bar-that-becomes-fixed-to-the-top-after-scroll
+###sticky navigation bar
+* http://demos.jquerymobile.com/1.2.1/docs/toolbars/bars-fixed.html
+* http://www.w3schools.com/jquerymobile/tryit.asp?filename=tryjqmob_toolbars_fixed
 
 * new HTML5 tags can replace div tags
 (i'm not sure how CSS might work):
