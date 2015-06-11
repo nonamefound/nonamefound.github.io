@@ -4,9 +4,11 @@
 * http://www.w3schools.com/jquerymobile/tryit.asp?filename=tryjqmob_toolbars_fixed
 * http://www.fuelyourcreativity.com/how-to-create-a-fixed-navigation-bar-for-your-website/
 <br> <br>
+
 * new HTML5 tags can replace div tags
 (i'm not sure how CSS might work):
 http://www.w3schools.com/html/html5_semantic_elements.asp
+http://www.w3schools.com/css/css_boxmodel.aspv
 
 * dropdown menu:
 http://www.w3schools.com/bootstrap/bootstrap_ref_comp_dropdowns.asp
