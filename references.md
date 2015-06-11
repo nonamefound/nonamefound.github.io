@@ -3,7 +3,7 @@
 * http://demos.jquerymobile.com/1.2.1/docs/toolbars/bars-fixed.html
 * http://www.w3schools.com/jquerymobile/tryit.asp?filename=tryjqmob_toolbars_fixed
 * http://www.fuelyourcreativity.com/how-to-create-a-fixed-navigation-bar-for-your-website/
-<br> <br>
+<br> 
 
 * new HTML5 tags can replace div tags
 (i'm not sure how CSS might work):
