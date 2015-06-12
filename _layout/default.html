@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head> 
+
+<!-- 
+i'm not sure if this is suppose to be included on this file
+<title>AE Global Trading</title>
+<link rel="stylesheet" type="text/css" href="stuff.css">
+-->
+
+</head> 
+<body>
+<!-- header: navbar -->
+  {% include navbar.html %}
+
+  {{ content | expand_urls: root_url }}
+
+  <!-- footer -->
+  {% include footer.html %}
+</body>
+</html>
